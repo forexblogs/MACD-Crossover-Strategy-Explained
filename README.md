@@ -1,4 +1,4 @@
-![Uploading MACD Crossover Strategy Explained 3.png…]()
+<img width="1280" height="896" alt="MACD Crossover Strategy Explained 3" src="https://github.com/user-attachments/assets/27cdade9-352c-4f0a-b56a-bcbd241997a3" />
 
 
 # 📈 MACD Crossover Strategy Explained
